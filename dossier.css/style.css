@@ -1,0 +1,55 @@
+/* ACCEUIL */
+
+body{
+    background: url("/IMAGE/les-7-erreurs-frequentes-dune-page-daccueil-de-site-web.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+ul{
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.formulaire{
+    display: block;
+    background: darksalmon;
+}
+header nav{
+    float: right;
+    margin-top: 50px;
+}
+header nav ul li{
+    float: left;
+    display: inline-block;
+}
+header nav ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+/* FORMULAIRE */
+
+form{
+    background-color: #fff;
+    width: 370px;
+    height: 480px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+
+/* CONNEXION */
+
+section{
+    background-color: #fff;
+    width: 170px;
+    height: 180px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    
+}
+
+
